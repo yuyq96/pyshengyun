@@ -1,4 +1,4 @@
-# 拼音声韵母转换工具 [:us:](https://github.com/yuyq96/pyshengyun)
+# 拼音声韵母转换工具 ([:us:](https://github.com/yuyq96/pyshengyun))
 
 将拼音转为声母、韵母，或者将声母、韵母组合为拼音，可用于语音识别、语音合成。
 
@@ -30,4 +30,4 @@ $ git clone https://github.com/yuyq96/pyshengyun
 
 ## 相关项目
 
-[pypinyin](https://github.com/mozillazg/python-pinyin)
+- [pypinyin](https://github.com/mozillazg/python-pinyin): Python汉字拼音转换工具。
