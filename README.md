@@ -1,6 +1,6 @@
-# PyShengYun [:cn:](https://github.com/yuyq96/pyshengyun/README_CN.md)
+# PyShengyun ([:cn:](https://github.com/yuyq96/pyshengyun/blob/master/README_CN.md))
 
-A converter for Chinese pinyin and shengyun (initials and finals) in python and can be utilized in automatic speech recognition or text-to-speech.
+A converter for Chinese Pinyin and Shengyun (initials and finals) in python and can be utilized in automatic speech recognition or text-to-speech.
 
 ## Installation
 
@@ -30,4 +30,4 @@ $ git clone https://github.com/yuyq96/pyshengyun
 
 ## Related Projects
 
-[pypinyin](https://github.com/mozillazg/python-pinyin)
+- [pypinyin](https://github.com/mozillazg/python-pinyin): A python tool for converting Chinese character to Pinyin.
