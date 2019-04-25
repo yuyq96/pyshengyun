@@ -1,6 +1,6 @@
 # PyShengyun ([:cn:](https://github.com/yuyq96/pyshengyun/blob/master/README_CN.md))
 
-A converter for Chinese Pinyin and Shengyun (initials and finals) in python and can be utilized in automatic speech recognition or text-to-speech.
+A converter for Chinese Pinyin and Shengyun (initials and finals) in python and can be utilized in automatic speech recognition or text-to-speech synthesis.
 
 ## Installation
 
